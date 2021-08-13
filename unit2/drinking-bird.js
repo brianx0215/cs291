@@ -86,6 +86,7 @@ function createSupport() {
 
 	// right leg
 
+	// Nothing special, just a bunch of basic objects. The comment pretends everything is finished.
 }
 
 // Body of the bird - body and the connector of body and head
